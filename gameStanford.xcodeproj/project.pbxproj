@@ -97,11 +97,9 @@
 		663DB5052187E1F900999296 /* gameStanford */ = {
 			isa = PBXGroup;
 			children = (
-				663DB5062187E1F900999296 /* AppDelegate.swift */,
 				663DB5082187E1F900999296 /* ViewController.swift */,
 				663DB50A2187E1F900999296 /* Main.storyboard */,
-				663DB50D2187E1FA00999296 /* Assets.xcassets */,
-				663DB50F2187E1FA00999296 /* LaunchScreen.storyboard */,
+				669AE45B2188EB180001A135 /* Supporting Files */,
 				663DB5122187E1FA00999296 /* Info.plist */,
 			);
 			path = gameStanford;
@@ -123,6 +121,16 @@
 				663DB5282187E1FA00999296 /* Info.plist */,
 			);
 			path = gameStanfordUITests;
+			sourceTree = "<group>";
+		};
+		669AE45B2188EB180001A135 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				663DB5062187E1F900999296 /* AppDelegate.swift */,
+				663DB50D2187E1FA00999296 /* Assets.xcassets */,
+				663DB50F2187E1FA00999296 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
