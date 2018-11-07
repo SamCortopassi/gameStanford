@@ -14,6 +14,8 @@
 		663DB5112187E1FA00999296 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 663DB50F2187E1FA00999296 /* LaunchScreen.storyboard */; };
 		663DB51C2187E1FA00999296 /* gameStanfordTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 663DB51B2187E1FA00999296 /* gameStanfordTests.swift */; };
 		663DB5272187E1FA00999296 /* gameStanfordUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 663DB5262187E1FA00999296 /* gameStanfordUITests.swift */; };
+		66D88E9D2192340000B19732 /* gameStanford.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66D88E9C2192340000B19732 /* gameStanford.swift */; };
+		66D88E9F219234F000B19732 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66D88E9E219234F000B19732 /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		663DB5222187E1FA00999296 /* gameStanfordUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = gameStanfordUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		663DB5262187E1FA00999296 /* gameStanfordUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gameStanfordUITests.swift; sourceTree = "<group>"; };
 		663DB5282187E1FA00999296 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		66D88E9C2192340000B19732 /* gameStanford.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gameStanford.swift; sourceTree = "<group>"; };
+		66D88E9E219234F000B19732 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 		663DB5052187E1F900999296 /* gameStanford */ = {
 			isa = PBXGroup;
 			children = (
+				66D88E9C2192340000B19732 /* gameStanford.swift */,
+				66D88E9E219234F000B19732 /* Card.swift */,
 				663DB5082187E1F900999296 /* ViewController.swift */,
 				663DB50A2187E1F900999296 /* Main.storyboard */,
 				669AE45B2188EB180001A135 /* Supporting Files */,
@@ -266,6 +272,8 @@
 			files = (
 				663DB5092187E1F900999296 /* ViewController.swift in Sources */,
 				663DB5072187E1F900999296 /* AppDelegate.swift in Sources */,
+				66D88E9D2192340000B19732 /* gameStanford.swift in Sources */,
+				66D88E9F219234F000B19732 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
