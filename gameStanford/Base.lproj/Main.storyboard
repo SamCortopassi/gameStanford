@@ -67,10 +67,6 @@
                     </view>
                     <connections>
                         <outlet property="flipCountLabel" destination="bg0-UA-bhF" id="aeD-zM-VuU"/>
-                        <outletCollection property="cardButton" destination="iqG-cT-cMf" collectionClass="NSMutableArray" id="Vs3-H6-1H8"/>
-                        <outletCollection property="cardButton" destination="9uy-U5-DRy" collectionClass="NSMutableArray" id="b2P-sd-Q71"/>
-                        <outletCollection property="cardButton" destination="xYR-A6-URZ" collectionClass="NSMutableArray" id="erY-Nr-g2H"/>
-                        <outletCollection property="cardButton" destination="uVG-qg-Ha0" collectionClass="NSMutableArray" id="xFq-si-oig"/>
                         <outletCollection property="cardButtons" destination="9uy-U5-DRy" collectionClass="NSMutableArray" id="J09-qm-UeM"/>
                         <outletCollection property="cardButtons" destination="iqG-cT-cMf" collectionClass="NSMutableArray" id="Ngl-Oy-Eeo"/>
                         <outletCollection property="cardButtons" destination="xYR-A6-URZ" collectionClass="NSMutableArray" id="a7J-s8-WWe"/>

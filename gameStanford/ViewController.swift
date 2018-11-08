@@ -24,7 +24,7 @@ class ViewController: UIViewController
             game.chooseCard(at: cardNumber)
             updateViewFromModel()
         } else {
-            print("chosen card was not in cardButton")
+            print("chosen card was not in cardButtons")
       }
     }
     

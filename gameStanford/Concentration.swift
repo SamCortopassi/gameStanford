@@ -1,8 +1,8 @@
 //
-//  gameStanford.swift
+//  Concentration.swift
 //  gameStanford
 //
-//  Created by Samantha Cortopassi on 11/6/18.
+//  Created by Samantha Cortopassi on 11/8/18.
 //  Copyright © 2018 Samantha Cortopassi. All rights reserved.
 //
 
